@@ -2,11 +2,11 @@
   "name": "react-demo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chiang24.github.io/react-demo/build",
   "dependencies": {
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "react-scripts": "1.0.17",
-    "homepage": "https://chiang24.github.io/react-demo/build"
+    "react-scripts": "1.0.17"
   },
   "scripts": {
     "start": "react-scripts start",
